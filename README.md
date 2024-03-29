@@ -1,16 +1,31 @@
-### Hi there 👋
+👋 Hello there! I'm Asad Ali Khan, a Computer Science student at Queen Mary University London
 
-<!--
-**As4d/As4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Technical Skills:**
+- Languages:
+  - HTML
+  - Python
+  - Java
+  - JavaScript
+  - C#
+  - PHP
+- Developer Tools:
+  - Git
+- Technologies/Frameworks:
+  - Bootstrap
+  - .Net
+  - Linux
+- Databases:
+  - MySQL
+  - SQL
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:**
+- C++
+- C
+- React
+- Django
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me:
+- Email: [asadkhan91003@gmail.com](mailto:asadkhan91003@gmail.com)
+- LinkedIn: [linkedin.com/in/asad-khan-8b8b15212](https://www.linkedin.com/in/asad-khan-8b8b15212)
+- GitHub: [github.com/As4d](https://github.com/As4d)
