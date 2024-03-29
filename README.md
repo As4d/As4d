@@ -1,29 +1,30 @@
 👋 Hello there! I'm Asad Ali Khan, a Computer Science student at Queen Mary University London
 
-🛠️ **Technical Skills:**
+🛠️ **Technical Skills / Strong Understanding:**
 - Languages:
   - HTML
   - Python
   - Java
   - JavaScript
-  - C#
-  - PHP
+  - CSS
 - Developer Tools:
   - Git
 - Technologies/Frameworks:
-  - Bootstrap
-  - .Net
   - Linux
 - Databases:
   - MySQL
   - SQL
 
-🌱 **Currently Learning:**
+🌱 **Currently Learning / Have Worked With:**
 - C++
 - C
+- C#
+- PHP
 - React
 - Django
 - Docker
+- Bootstrap
+- .Net
 
 🔗 Connect with me:
 - Email: [asadkhan91003@gmail.com](mailto:asadkhan91003@gmail.com)
