@@ -10,7 +10,7 @@
 - Developer Tools:
   - Git
 - Technologies/Frameworks:
-  - Linux
+  - Linux/Unix
 - Databases:
   - MySQL
   - SQL
@@ -25,6 +25,8 @@
 - Docker
 - Bootstrap
 - .Net
+- Azure
+- AWS
 
 🔗 Connect with me:
 - Email: [asadkhan91003@gmail.com](mailto:asadkhan91003@gmail.com)
