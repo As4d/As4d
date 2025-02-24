@@ -57,7 +57,6 @@ Check out more projects [here](https://github.com/As4d?tab=repositories).
 
 ## 📈 Goals
 - Contribute to **open-source projects** to enhance my GitHub profile.
-- Complete **150 Neetcode problems**.
 - Build expertise in **Vue.js**, **Django**, and **Docker**.
 
 ---
