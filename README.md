@@ -35,6 +35,9 @@
 
 ## 💼 Projects
 
+### 🧠 [CIFAR-10 CNN Classifier](https://github.com/As4d/cifar10-convolutional-network)
+A convolutional neural network built from scratch in Python with PyTorch, designed for CIFAR-10 image classification.
+
 ### 🔍 [Hades Vulnerability Scanner](https://github.com/As4d/hades)
 A full stack vulnerability scanning app built using **C#** and **.NET**.
 
