@@ -6,7 +6,7 @@
 
 🌱 Currently enhancing my skills in **Python**, **Django**, **Java**, **Docker**, and exploring **Vue.js** for web development.
 
-🛠️ **Final Year Project**: Building a **LeetCode clone** enhanced with **AI-powered hints** to assist users in solving coding challenges. This project aims to make learning algorithms and data structures more intuitive by providing step-by-step guidance without giving away solutions.
+🛠️ **Final Year Project**: Building an interactive coding practice platform inspired by LeetCode, enhanced with an AI-powered assistant that provides progressive, context-aware hints. [AlgoAI](https://github.com/As4d/algo-ai) helps users develop a deeper understanding of algorithms and data structures by guiding them step-by-step based on their current code and experience level - without giving away full solutions. The platform aims to make learning more intuitive, especially for beginners, by reducing frustration and promoting better problem-solving practices.
 
 ---
 
