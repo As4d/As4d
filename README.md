@@ -33,6 +33,9 @@
 
 ## 💼 Projects
 
+### 🤖 [AlgoAI: Your AI-Powered Algorithm/Coding Mentor](https://github.com/As4d/algo-ai) 
+A LeetCode-style platform that uses **Vue.js**, **Django**, and **DeepSeek** to deliver context-aware, progressive hints for learning algorithms and programming.
+
 ### 🧠 [CIFAR-10 CNN Classifier](https://github.com/As4d/cifar10-convolutional-network)
 A convolutional neural network built from scratch in Python with PyTorch, designed for CIFAR-10 image classification.
 
