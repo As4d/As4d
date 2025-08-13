@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Third-Year Computer Science Student** at Queen Mary University of London.
+🎓 I'm a **Fourth-Year Computer Science Student** at Queen Mary University of London.
 
 🌱 Currently enhancing my skills in **Python**, **Django**, **Java**, **Docker**, and exploring **Vue.js** for web development.
 
