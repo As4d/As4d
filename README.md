@@ -4,28 +4,19 @@
 
 🎓 I'm a **Fourth-Year Computer Science Student** at Queen Mary University of London.
 
-🌱 Currently enhancing my skills in **Python**, **Django**, **Java**, **Docker**, and exploring **Vue.js** for web development.
+🌱 Currently enhancing my skills in **AWS**, **C++**, and exploring **Terraform**.
 
 ---
 
 ## 🔧 Technologies & Tools
 
 ### 🖥️ Languages
-- **Proficient**: Python, Java, HTML, CSS, SQL
-- **Learning**: Vue.js, Django, Docker, AWS
-
-### 🛠️ Tools & Frameworks
-- Git & GitHub
-- Linux/Unix
-- Bootstrap
-- MySQL
-- REST APIs
+- **Proficient**: Python, Java, HTML, CSS, SQL, Django
+- **Learning**: AWS, Terraform, C++
 
 ---
 
 ## 📊 My GitHub Stats
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=As4d&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,8 +51,7 @@ Check out more projects [here](https://github.com/As4d?tab=repositories).
 ---
 
 ## 📈 Goals
-- Contribute to **open-source projects** to enhance my GitHub profile.
-- Build expertise in **Vue.js**, **Django**, and **Docker**.
+- Get AWS and Terraform certified (AWS Certified Solutions Architect – Associate & HashiCorp Certified: Terraform Associate)
 
 ---
 
