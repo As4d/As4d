@@ -36,9 +36,6 @@ A full stack vulnerability scanning app built using **C#** and **.NET**.
 ### 🎮 [Never Ending Castle Adventure](https://github.com/As4d/never-ending-castle-adventure)
 A Java-based CLI adventure game featuring procedural map generation.
 
-### 🌐 [Portfolio Website](https://github.com/As4d/portfolio-website)
-A responsive personal portfolio built with **HTML**, **CSS**, and **JavaScript**.
-
 Check out more projects [here](https://github.com/As4d?tab=repositories).
 
 ---
