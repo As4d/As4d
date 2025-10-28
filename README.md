@@ -4,9 +4,8 @@
 
 🎓 I'm a **Fourth-Year Computer Science Student** at Queen Mary University of London.
 
-☁️ Currently focused on DevOps and Cloud Engineering, with an [AWS certification as Solutions architect](https://www.credly.com/earner/earned/badge/77aedb7a-862e-4f01-abb4-61ac000e3fb1) and a cloud-native projects in the works.
+☁️ Currently focused on DevOps and Cloud Engineering, with an [AWS certification](https://www.credly.com/earner/earned/badge/77aedb7a-862e-4f01-abb4-61ac000e3fb1) and a cloud-native projects in the works.
 
----
 
 ## 💼 Recent Projects
 
@@ -24,18 +23,13 @@ A LeetCode-style platform that uses **Vue.js**, **Django**, and **DeepSeek** to 
 
 Check out more projects [here](https://github.com/As4d?tab=repositories).
 
----
 
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asad-ali-khan)
 - 📫 Email: [asadkhan91003@gmail.com](mailto:asadkhan91003@gmail.com)
 
----
 
 ## 📈 Goals
 - Get Kuberneters and Terraform certified (Certified Kubernetes Administrator – Associate & HashiCorp Certified: Terraform Associate)
 
----
-
-Feel free to reach out
