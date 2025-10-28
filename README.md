@@ -9,7 +9,7 @@
 ## 🔧 Technologies & Tools
 
 ### 🖥️ Languages
-- **Proficient**: Python, Java, HTML, CSS, SQL, Django , AWS (Certified Solutions Architect - Associate)
+- **Proficient**: Python, Java, HTML, CSS, SQL, Django, AWS (Certified Solutions Architect - Associate)
 - **Learning**:  Terraform
 
 ---
