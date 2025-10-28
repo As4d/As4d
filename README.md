@@ -6,14 +6,6 @@
 
 ---
 
-## 🔧 Technologies & Tools
-
-### 🖥️ Languages
-- **Proficient**: Python, Java, HTML, CSS, SQL, Django, AWS (Certified Solutions Architect - Associate)
-- **Learning**:  Terraform
-
----
-
 ## 💼 Recent Projects
 
 ### 🌐 [Portfolio Website](https://github.com/As4d/portfolio-site)
