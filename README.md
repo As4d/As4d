@@ -4,6 +4,7 @@
 
 🎓 I'm a **Fourth-Year Computer Science Student** at Queen Mary University of London.
 
+☁️ Currently focused on DevOps and Cloud Engineering, with a AWS certification as Solutions architect and a cloud-native projects in the works.
 ---
 
 ## 💼 Recent Projects
