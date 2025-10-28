@@ -4,7 +4,7 @@
 
 🎓 I'm a **Fourth-Year Computer Science Student** at Queen Mary University of London.
 
-☁️ Currently focused on DevOps and Cloud Engineering, with a AWS certification as Solutions architect and a cloud-native projects in the works.
+☁️ Currently focused on DevOps and Cloud Engineering, with an [AWS certification as Solutions architect](https://www.credly.com/earner/earned/badge/77aedb7a-862e-4f01-abb4-61ac000e3fb1) and a cloud-native projects in the works.
 
 ---
 
