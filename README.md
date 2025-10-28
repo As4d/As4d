@@ -26,10 +26,9 @@ Check out more projects [here](https://github.com/As4d?tab=repositories).
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/asad-ali-khan)
+- 💼 Linkedin: [https://www.linkedin.com/in/asad-ali-khan](https://www.linkedin.com/in/asad-ali-khan)
 - 📫 Email: [asadkhan91003@gmail.com](mailto:asadkhan91003@gmail.com)
 
 
 ## 📈 Goals
 - Get Kuberneters and Terraform certified (Certified Kubernetes Administrator – Associate & HashiCorp Certified: Terraform Associate)
-
