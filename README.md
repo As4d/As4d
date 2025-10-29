@@ -31,4 +31,4 @@ Check out more projects [here](https://github.com/As4d?tab=repositories).
 
 
 ## 📈 Goals
-- Get Kuberneters and Terraform certified (Certified Kubernetes Administrator – Associate & HashiCorp Certified: Terraform Associate)
+- Get Kuberneters and Terraform certified (Certified Kubernetes Administrator (CKA) & HashiCorp Certified: Terraform Associate)
