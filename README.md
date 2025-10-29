@@ -9,13 +9,13 @@
 
 ## 💼 Recent Projects
 
-### 🌐 [Portfolio Website](https://github.com/As4d/portfolio-site)
-
-A modern, responsive personal portfolio website built with **Vue.js**, **TypeScript**, **HTML**, and **CSS**. Features interactive UI, smooth animations, and a contact form. Demonstrates front-end development and UI/UX skills, deployed live and secure.
-
 ### ⚙️ [Portfolio Site Infrastructure (IaC)](https://github.com/As4d/portfolio-site-iac)
 
-Infrastructure-as-Code setup for hosting the portfolio website using **Terraform** and **AWS**. Manages cloud resources, state via **Terraform Cloud**, and integrates deployment pipelines with **Jira** for project tracking.
+Infrastructure-as-Code setup for hosting the portfolio website using **Terraform** and **AWS**. Manages cloud resources, state via **Terraform Cloud**.
+
+### 🌐 [Portfolio Website](https://github.com/As4d/portfolio-site)
+
+A modern, responsive personal portfolio website built with **Vue.js**.
 
 ### 🤖 [AlgoAI: Your AI-Powered Algorithm/Coding Mentor](https://github.com/As4d/algo-ai)
 
