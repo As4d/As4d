@@ -6,6 +6,7 @@
 
 ☁️ Currently focused on DevOps and Cloud Engineering, with an [AWS Solutions Architect certification](https://www.credly.com/earner/earned/badge/77aedb7a-862e-4f01-abb4-61ac000e3fb1) and hands-on experience building cloud-native infrastructure.
 
+🌱 I’m open to Graduate, Entry-Level, or Junior opportunities across Cloud, DevOps, Software, or Cyber Security.
 
 ## 💼 Recent Projects
 
