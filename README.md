@@ -13,10 +13,6 @@
 
 Infrastructure-as-Code setup for hosting the portfolio website using **Terraform** and **AWS**. Manages cloud resources, state via **Terraform Cloud**.
 
-### 🌐 [Portfolio Website](https://github.com/As4d/portfolio-site)
-
-A modern, responsive personal portfolio website built with **Vue.js**.
-
 ### 🤖 [AlgoAI: Your AI-Powered Algorithm/Coding Mentor](https://github.com/As4d/algo-ai)
 
 A LeetCode-style platform that uses **Vue.js**, **Django**, and **DeepSeek** to deliver context-aware, progressive hints for learning algorithms and programming.
